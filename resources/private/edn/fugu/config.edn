@@ -1,0 +1,3 @@
+{:aleph #profile {:dev {:port 8080}}
+ :datomic #profile {:dev {:type :mem
+                          :name "dev"}}}
